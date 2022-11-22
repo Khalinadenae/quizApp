@@ -1,0 +1,30 @@
+.form-floating{
+    width:45%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #FFFFFA;
+    height:100px;
+    font-size:20px;
+  }
+  
+  .grid {
+    border: 3px solid black ;
+    width:100%;
+    margin:100px;
+      margin-left:auto;
+    margin-right:auto;
+   background-color: #5EB7BC;
+  }
+  
+  html{
+  background-color: #0D5C63;
+  }
+
+  #question3answer, #question2answer, #question1answer{
+    font-size: 30px;
+    background-color: #B1DBDF;
+    width:45%;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 20px -5px teal;
+  }
